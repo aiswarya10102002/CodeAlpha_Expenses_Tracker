@@ -1,3 +1,4 @@
+#Expenses Tracker
 # CRUD-Operations
 Create a CRUD Application using HTML CSS Bootstrap5 and JavaScript Local Storage.  
 
@@ -5,4 +6,3 @@ Create a CRUD Application using HTML CSS Bootstrap5 and JavaScript Local Storage
 
 <br>
 
-<img src="./image/CRUD operation using HTML CSS Bootstrap5 and JavaScript Local Storage.png">
